@@ -1,0 +1,6004 @@
+{
+  "houses": [
+    {
+      "address": "900 Elm Rd",
+      "sqft": 2284,
+      "yearBuilt": 1952,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 462000
+    },
+    {
+      "address": "9953 Forest Dr",
+      "sqft": 1009,
+      "yearBuilt": 1979,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 328000
+    },
+    {
+      "address": "7150 Willow Way",
+      "sqft": 3136,
+      "yearBuilt": 2018,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 677000
+    },
+    {
+      "address": "5178 Mountain View",
+      "sqft": 950,
+      "yearBuilt": 1977,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 254000
+    },
+    {
+      "address": "5550 River Rd",
+      "sqft": 2529,
+      "yearBuilt": 1994,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 554000
+    },
+    {
+      "address": "4388 Birch St",
+      "sqft": 2195,
+      "yearBuilt": 2013,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 443000
+    },
+    {
+      "address": "9586 Park Ave",
+      "sqft": 3314,
+      "yearBuilt": 1964,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 758000
+    },
+    {
+      "address": "2374 Mountain View",
+      "sqft": 3835,
+      "yearBuilt": 1966,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 764000
+    },
+    {
+      "address": "1077 Sunset Blvd",
+      "sqft": 2039,
+      "yearBuilt": 2005,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 686000
+    },
+    {
+      "address": "9637 Sunset Blvd",
+      "sqft": 4896,
+      "yearBuilt": 1992,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 1155000
+    },
+    {
+      "address": "4848 Park Ave",
+      "sqft": 4158,
+      "yearBuilt": 1957,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 903000
+    },
+    {
+      "address": "4656 Cedar Ct",
+      "sqft": 4859,
+      "yearBuilt": 1955,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 829000
+    },
+    {
+      "address": "8638 Cedar Ct",
+      "sqft": 2844,
+      "yearBuilt": 1955,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 834000
+    },
+    {
+      "address": "256 Park Ave",
+      "sqft": 2006,
+      "yearBuilt": 1963,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 504000
+    },
+    {
+      "address": "638 Pine Ln",
+      "sqft": 3703,
+      "yearBuilt": 1964,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 1014000
+    },
+    {
+      "address": "2097 Cedar Ct",
+      "sqft": 3069,
+      "yearBuilt": 1954,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 582000
+    },
+    {
+      "address": "2871 Sunset Blvd",
+      "sqft": 4262,
+      "yearBuilt": 1968,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 1128000
+    },
+    {
+      "address": "1681 Main St",
+      "sqft": 4641,
+      "yearBuilt": 1986,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 1142000
+    },
+    {
+      "address": "7600 Forest Dr",
+      "sqft": 4200,
+      "yearBuilt": 2001,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 1110000
+    },
+    {
+      "address": "773 Forest Dr",
+      "sqft": 3067,
+      "yearBuilt": 1995,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 624000
+    },
+    {
+      "address": "2404 Lake St",
+      "sqft": 850,
+      "yearBuilt": 1979,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 341000
+    },
+    {
+      "address": "7726 Mountain View",
+      "sqft": 3983,
+      "yearBuilt": 1951,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 703000
+    },
+    {
+      "address": "4604 Highland Ave",
+      "sqft": 3892,
+      "yearBuilt": 1961,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 738000
+    },
+    {
+      "address": "1472 Willow Way",
+      "sqft": 3540,
+      "yearBuilt": 1963,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 882000
+    },
+    {
+      "address": "5894 Elm Rd",
+      "sqft": 4853,
+      "yearBuilt": 1971,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 941000
+    },
+    {
+      "address": "2639 Lake St",
+      "sqft": 3642,
+      "yearBuilt": 1991,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 644000
+    },
+    {
+      "address": "5633 Willow Way",
+      "sqft": 2673,
+      "yearBuilt": 1966,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 608000
+    },
+    {
+      "address": "6379 Sunset Blvd",
+      "sqft": 2297,
+      "yearBuilt": 1992,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 430000
+    },
+    {
+      "address": "250 Cedar Ct",
+      "sqft": 3828,
+      "yearBuilt": 1979,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 764000
+    },
+    {
+      "address": "8390 Main St",
+      "sqft": 3218,
+      "yearBuilt": 1959,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 907000
+    },
+    {
+      "address": "5598 Mountain View",
+      "sqft": 4150,
+      "yearBuilt": 1969,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 983000
+    },
+    {
+      "address": "2864 Willow Way",
+      "sqft": 4355,
+      "yearBuilt": 1958,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 985000
+    },
+    {
+      "address": "7506 Birch St",
+      "sqft": 4311,
+      "yearBuilt": 2012,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 1227000
+    },
+    {
+      "address": "4054 Park Ave",
+      "sqft": 4270,
+      "yearBuilt": 1966,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 1109000
+    },
+    {
+      "address": "7523 Forest Dr",
+      "sqft": 3840,
+      "yearBuilt": 2002,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 1057000
+    },
+    {
+      "address": "4477 Main St",
+      "sqft": 1966,
+      "yearBuilt": 1983,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 435000
+    },
+    {
+      "address": "634 Elm Rd",
+      "sqft": 3031,
+      "yearBuilt": 1993,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 686000
+    },
+    {
+      "address": "4473 Forest Dr",
+      "sqft": 3547,
+      "yearBuilt": 1964,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 971000
+    },
+    {
+      "address": "6283 Forest Dr",
+      "sqft": 3887,
+      "yearBuilt": 1986,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 752000
+    },
+    {
+      "address": "4972 Sunset Blvd",
+      "sqft": 2538,
+      "yearBuilt": 2014,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 514000
+    },
+    {
+      "address": "4606 Elm Rd",
+      "sqft": 3970,
+      "yearBuilt": 1977,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 880000
+    },
+    {
+      "address": "8153 Main St",
+      "sqft": 2023,
+      "yearBuilt": 2009,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 522000
+    },
+    {
+      "address": "3355 Highland Ave",
+      "sqft": 832,
+      "yearBuilt": 2019,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 188000
+    },
+    {
+      "address": "416 Highland Ave",
+      "sqft": 3699,
+      "yearBuilt": 1971,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 752000
+    },
+    {
+      "address": "1174 Maple Dr",
+      "sqft": 1575,
+      "yearBuilt": 1953,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 493000
+    },
+    {
+      "address": "413 Cedar Ct",
+      "sqft": 2667,
+      "yearBuilt": 1988,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 628000
+    },
+    {
+      "address": "8852 Forest Dr",
+      "sqft": 3528,
+      "yearBuilt": 1990,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 812000
+    },
+    {
+      "address": "8439 Highland Ave",
+      "sqft": 2161,
+      "yearBuilt": 1986,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 581000
+    },
+    {
+      "address": "5143 River Rd",
+      "sqft": 2563,
+      "yearBuilt": 2023,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 534000
+    },
+    {
+      "address": "438 Willow Way",
+      "sqft": 1727,
+      "yearBuilt": 1977,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 390000
+    },
+    {
+      "address": "8841 Lake St",
+      "sqft": 4625,
+      "yearBuilt": 2019,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 1311000
+    },
+    {
+      "address": "4862 River Rd",
+      "sqft": 2209,
+      "yearBuilt": 2021,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 638000
+    },
+    {
+      "address": "7598 River Rd",
+      "sqft": 3699,
+      "yearBuilt": 2006,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 838000
+    },
+    {
+      "address": "5010 Highland Ave",
+      "sqft": 3948,
+      "yearBuilt": 1997,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 1000000
+    },
+    {
+      "address": "3171 Forest Dr",
+      "sqft": 2131,
+      "yearBuilt": 1957,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 426000
+    },
+    {
+      "address": "5378 Park Ave",
+      "sqft": 1757,
+      "yearBuilt": 2014,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 364000
+    },
+    {
+      "address": "9619 Cedar Ct",
+      "sqft": 2413,
+      "yearBuilt": 2019,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 609000
+    },
+    {
+      "address": "3182 Sunset Blvd",
+      "sqft": 4549,
+      "yearBuilt": 1998,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 1107000
+    },
+    {
+      "address": "1040 Maple Dr",
+      "sqft": 2342,
+      "yearBuilt": 1954,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 547000
+    },
+    {
+      "address": "1767 Lake St",
+      "sqft": 3513,
+      "yearBuilt": 1995,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 740000
+    },
+    {
+      "address": "8577 Main St",
+      "sqft": 3629,
+      "yearBuilt": 1983,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 718000
+    },
+    {
+      "address": "3898 Mountain View",
+      "sqft": 3843,
+      "yearBuilt": 2018,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 679000
+    },
+    {
+      "address": "3388 Mountain View",
+      "sqft": 4062,
+      "yearBuilt": 2013,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 1051000
+    },
+    {
+      "address": "3289 Main St",
+      "sqft": 2100,
+      "yearBuilt": 1993,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 500000
+    },
+    {
+      "address": "7247 Lake St",
+      "sqft": 2137,
+      "yearBuilt": 2007,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 524000
+    },
+    {
+      "address": "8064 Pine Ln",
+      "sqft": 2342,
+      "yearBuilt": 1990,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 594000
+    },
+    {
+      "address": "5829 River Rd",
+      "sqft": 2436,
+      "yearBuilt": 2007,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 561000
+    },
+    {
+      "address": "2356 Oak Ave",
+      "sqft": 1023,
+      "yearBuilt": 2015,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 374000
+    },
+    {
+      "address": "6736 Park Ave",
+      "sqft": 1046,
+      "yearBuilt": 1983,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 336000
+    },
+    {
+      "address": "5241 River Rd",
+      "sqft": 2543,
+      "yearBuilt": 1950,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 616000
+    },
+    {
+      "address": "8869 Cedar Ct",
+      "sqft": 1838,
+      "yearBuilt": 2019,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 465000
+    },
+    {
+      "address": "9787 Maple Dr",
+      "sqft": 2656,
+      "yearBuilt": 2024,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 650000
+    },
+    {
+      "address": "8486 Main St",
+      "sqft": 3810,
+      "yearBuilt": 1975,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 907000
+    },
+    {
+      "address": "1680 Sunset Blvd",
+      "sqft": 1986,
+      "yearBuilt": 2017,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 392000
+    },
+    {
+      "address": "5876 River Rd",
+      "sqft": 4796,
+      "yearBuilt": 1989,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 1076000
+    },
+    {
+      "address": "5154 Lake St",
+      "sqft": 4080,
+      "yearBuilt": 2016,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 849000
+    },
+    {
+      "address": "8933 Main St",
+      "sqft": 868,
+      "yearBuilt": 1960,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 245000
+    },
+    {
+      "address": "1791 Pine Ln",
+      "sqft": 3202,
+      "yearBuilt": 1996,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 814000
+    },
+    {
+      "address": "1467 Main St",
+      "sqft": 2390,
+      "yearBuilt": 2006,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 576000
+    },
+    {
+      "address": "8218 Maple Dr",
+      "sqft": 4160,
+      "yearBuilt": 1998,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 1120000
+    },
+    {
+      "address": "1745 Willow Way",
+      "sqft": 2150,
+      "yearBuilt": 1961,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 556000
+    },
+    {
+      "address": "2967 Oak Ave",
+      "sqft": 2148,
+      "yearBuilt": 1983,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 659000
+    },
+    {
+      "address": "9149 Highland Ave",
+      "sqft": 4910,
+      "yearBuilt": 1983,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 1316000
+    },
+    {
+      "address": "7260 Mountain View",
+      "sqft": 4043,
+      "yearBuilt": 1953,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 791000
+    },
+    {
+      "address": "2239 Cedar Ct",
+      "sqft": 1813,
+      "yearBuilt": 1976,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 534000
+    },
+    {
+      "address": "7301 Pine Ln",
+      "sqft": 2544,
+      "yearBuilt": 1997,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 708000
+    },
+    {
+      "address": "4768 Cedar Ct",
+      "sqft": 4095,
+      "yearBuilt": 1959,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 903000
+    },
+    {
+      "address": "268 Highland Ave",
+      "sqft": 2130,
+      "yearBuilt": 2016,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 528000
+    },
+    {
+      "address": "5196 Park Ave",
+      "sqft": 1443,
+      "yearBuilt": 1967,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 270000
+    },
+    {
+      "address": "8392 Oak Ave",
+      "sqft": 3887,
+      "yearBuilt": 1961,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 862000
+    },
+    {
+      "address": "2671 Park Ave",
+      "sqft": 2850,
+      "yearBuilt": 1982,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 660000
+    },
+    {
+      "address": "2178 Pine Ln",
+      "sqft": 3097,
+      "yearBuilt": 1981,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 775000
+    },
+    {
+      "address": "8358 Pine Ln",
+      "sqft": 950,
+      "yearBuilt": 2001,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 216000
+    },
+    {
+      "address": "4886 Willow Way",
+      "sqft": 1499,
+      "yearBuilt": 1996,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 275000
+    },
+    {
+      "address": "7388 Cedar Ct",
+      "sqft": 4264,
+      "yearBuilt": 2008,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 1080000
+    },
+    {
+      "address": "4864 Maple Dr",
+      "sqft": 1982,
+      "yearBuilt": 1952,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 456000
+    },
+    {
+      "address": "5318 Cedar Ct",
+      "sqft": 1413,
+      "yearBuilt": 1979,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 350000
+    },
+    {
+      "address": "3085 Maple Dr",
+      "sqft": 3737,
+      "yearBuilt": 1997,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 903000
+    },
+    {
+      "address": "9071 Main St",
+      "sqft": 2677,
+      "yearBuilt": 1992,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 633000
+    },
+    {
+      "address": "7429 Park Ave",
+      "sqft": 4954,
+      "yearBuilt": 1952,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 1310000
+    },
+    {
+      "address": "5436 River Rd",
+      "sqft": 4464,
+      "yearBuilt": 1990,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 1031000
+    },
+    {
+      "address": "8771 Cedar Ct",
+      "sqft": 4286,
+      "yearBuilt": 1989,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 995000
+    },
+    {
+      "address": "1274 Birch St",
+      "sqft": 4177,
+      "yearBuilt": 1956,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 972000
+    },
+    {
+      "address": "790 Pine Ln",
+      "sqft": 1719,
+      "yearBuilt": 1981,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 524000
+    },
+    {
+      "address": "295 Sunset Blvd",
+      "sqft": 2761,
+      "yearBuilt": 1987,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 540000
+    },
+    {
+      "address": "5029 Oak Ave",
+      "sqft": 1581,
+      "yearBuilt": 1966,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 373000
+    },
+    {
+      "address": "642 Highland Ave",
+      "sqft": 4967,
+      "yearBuilt": 1984,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 933000
+    },
+    {
+      "address": "1123 Cedar Ct",
+      "sqft": 1523,
+      "yearBuilt": 1975,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 475000
+    },
+    {
+      "address": "4926 River Rd",
+      "sqft": 1342,
+      "yearBuilt": 1962,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 380000
+    },
+    {
+      "address": "9809 Sunset Blvd",
+      "sqft": 1136,
+      "yearBuilt": 1957,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 283000
+    },
+    {
+      "address": "4209 Oak Ave",
+      "sqft": 4831,
+      "yearBuilt": 2012,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 1280000
+    },
+    {
+      "address": "4927 Willow Way",
+      "sqft": 4138,
+      "yearBuilt": 2023,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 809000
+    },
+    {
+      "address": "4407 Cedar Ct",
+      "sqft": 1164,
+      "yearBuilt": 1957,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 335000
+    },
+    {
+      "address": "1762 Lake St",
+      "sqft": 2454,
+      "yearBuilt": 2015,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 514000
+    },
+    {
+      "address": "3237 River Rd",
+      "sqft": 3235,
+      "yearBuilt": 2021,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 835000
+    },
+    {
+      "address": "3433 Park Ave",
+      "sqft": 3981,
+      "yearBuilt": 1967,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 870000
+    },
+    {
+      "address": "3765 Forest Dr",
+      "sqft": 4373,
+      "yearBuilt": 2007,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 902000
+    },
+    {
+      "address": "2285 Park Ave",
+      "sqft": 4678,
+      "yearBuilt": 1954,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 1126000
+    },
+    {
+      "address": "715 Elm Rd",
+      "sqft": 4978,
+      "yearBuilt": 2001,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 1077000
+    },
+    {
+      "address": "2716 River Rd",
+      "sqft": 1239,
+      "yearBuilt": 1984,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 324000
+    },
+    {
+      "address": "7024 Highland Ave",
+      "sqft": 4740,
+      "yearBuilt": 1977,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 1292000
+    },
+    {
+      "address": "6286 Birch St",
+      "sqft": 4550,
+      "yearBuilt": 1980,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 980000
+    },
+    {
+      "address": "6207 Willow Way",
+      "sqft": 2591,
+      "yearBuilt": 1982,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 458000
+    },
+    {
+      "address": "6772 Forest Dr",
+      "sqft": 1675,
+      "yearBuilt": 1964,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 503000
+    },
+    {
+      "address": "5376 Willow Way",
+      "sqft": 2173,
+      "yearBuilt": 1963,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 580000
+    },
+    {
+      "address": "6327 Sunset Blvd",
+      "sqft": 3735,
+      "yearBuilt": 1968,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 750000
+    },
+    {
+      "address": "3013 Birch St",
+      "sqft": 3162,
+      "yearBuilt": 1953,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 669000
+    },
+    {
+      "address": "5312 Main St",
+      "sqft": 4642,
+      "yearBuilt": 1977,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 1084000
+    },
+    {
+      "address": "4537 Pine Ln",
+      "sqft": 2455,
+      "yearBuilt": 1950,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 633000
+    },
+    {
+      "address": "4188 Mountain View",
+      "sqft": 4954,
+      "yearBuilt": 1996,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 937000
+    },
+    {
+      "address": "283 Forest Dr",
+      "sqft": 1434,
+      "yearBuilt": 1980,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 441000
+    },
+    {
+      "address": "4626 Cedar Ct",
+      "sqft": 1452,
+      "yearBuilt": 1961,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 352000
+    },
+    {
+      "address": "3630 Highland Ave",
+      "sqft": 4253,
+      "yearBuilt": 1971,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 902000
+    },
+    {
+      "address": "1872 Birch St",
+      "sqft": 1119,
+      "yearBuilt": 2012,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 445000
+    },
+    {
+      "address": "1432 Birch St",
+      "sqft": 4814,
+      "yearBuilt": 1977,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 1096000
+    },
+    {
+      "address": "4829 Birch St",
+      "sqft": 1394,
+      "yearBuilt": 2009,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 391000
+    },
+    {
+      "address": "252 Sunset Blvd",
+      "sqft": 812,
+      "yearBuilt": 1966,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 289000
+    },
+    {
+      "address": "3331 Mountain View",
+      "sqft": 3511,
+      "yearBuilt": 1961,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 785000
+    },
+    {
+      "address": "2861 Willow Way",
+      "sqft": 4375,
+      "yearBuilt": 1960,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 1012000
+    },
+    {
+      "address": "2769 Cedar Ct",
+      "sqft": 1410,
+      "yearBuilt": 1951,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 517000
+    },
+    {
+      "address": "9295 River Rd",
+      "sqft": 2149,
+      "yearBuilt": 1957,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 395000
+    },
+    {
+      "address": "3154 Sunset Blvd",
+      "sqft": 3307,
+      "yearBuilt": 1967,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 992000
+    },
+    {
+      "address": "379 Mountain View",
+      "sqft": 4076,
+      "yearBuilt": 1960,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 1003000
+    },
+    {
+      "address": "1601 Forest Dr",
+      "sqft": 1213,
+      "yearBuilt": 2022,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 457000
+    },
+    {
+      "address": "2845 Park Ave",
+      "sqft": 3517,
+      "yearBuilt": 2006,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 939000
+    },
+    {
+      "address": "8291 Pine Ln",
+      "sqft": 2079,
+      "yearBuilt": 1972,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 528000
+    },
+    {
+      "address": "2088 Oak Ave",
+      "sqft": 1840,
+      "yearBuilt": 1950,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 419000
+    },
+    {
+      "address": "4332 Birch St",
+      "sqft": 860,
+      "yearBuilt": 1952,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 300000
+    },
+    {
+      "address": "5995 Sunset Blvd",
+      "sqft": 2003,
+      "yearBuilt": 1984,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 574000
+    },
+    {
+      "address": "4391 Lake St",
+      "sqft": 4081,
+      "yearBuilt": 1986,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 710000
+    },
+    {
+      "address": "1967 Main St",
+      "sqft": 2671,
+      "yearBuilt": 2022,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 719000
+    },
+    {
+      "address": "3100 Pine Ln",
+      "sqft": 3980,
+      "yearBuilt": 2010,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 968000
+    },
+    {
+      "address": "6394 Pine Ln",
+      "sqft": 2099,
+      "yearBuilt": 2013,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 430000
+    },
+    {
+      "address": "3391 River Rd",
+      "sqft": 1680,
+      "yearBuilt": 1985,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 510000
+    },
+    {
+      "address": "7597 Pine Ln",
+      "sqft": 4962,
+      "yearBuilt": 2001,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 916000
+    },
+    {
+      "address": "1575 Sunset Blvd",
+      "sqft": 1360,
+      "yearBuilt": 2015,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 386000
+    },
+    {
+      "address": "3538 Mountain View",
+      "sqft": 1974,
+      "yearBuilt": 1966,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 455000
+    },
+    {
+      "address": "5457 River Rd",
+      "sqft": 4167,
+      "yearBuilt": 1953,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 1166000
+    },
+    {
+      "address": "4452 Main St",
+      "sqft": 975,
+      "yearBuilt": 1951,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 300000
+    },
+    {
+      "address": "8582 Maple Dr",
+      "sqft": 2835,
+      "yearBuilt": 2000,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 688000
+    },
+    {
+      "address": "5462 Forest Dr",
+      "sqft": 2738,
+      "yearBuilt": 1953,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 575000
+    },
+    {
+      "address": "9263 Sunset Blvd",
+      "sqft": 1087,
+      "yearBuilt": 1989,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 310000
+    },
+    {
+      "address": "1254 Sunset Blvd",
+      "sqft": 3753,
+      "yearBuilt": 1967,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 798000
+    },
+    {
+      "address": "8388 Pine Ln",
+      "sqft": 4967,
+      "yearBuilt": 1974,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 1140000
+    },
+    {
+      "address": "5431 Oak Ave",
+      "sqft": 2261,
+      "yearBuilt": 1991,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 638000
+    },
+    {
+      "address": "1019 Elm Rd",
+      "sqft": 2792,
+      "yearBuilt": 1981,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 670000
+    },
+    {
+      "address": "1535 Main St",
+      "sqft": 4323,
+      "yearBuilt": 1977,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 1024000
+    },
+    {
+      "address": "9405 Willow Way",
+      "sqft": 4372,
+      "yearBuilt": 1972,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 933000
+    },
+    {
+      "address": "5625 Sunset Blvd",
+      "sqft": 3839,
+      "yearBuilt": 1990,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 832000
+    },
+    {
+      "address": "5104 Oak Ave",
+      "sqft": 4804,
+      "yearBuilt": 1955,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 953000
+    },
+    {
+      "address": "7822 Forest Dr",
+      "sqft": 1241,
+      "yearBuilt": 2023,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 340000
+    },
+    {
+      "address": "1448 Lake St",
+      "sqft": 4439,
+      "yearBuilt": 1970,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 813000
+    },
+    {
+      "address": "7176 Forest Dr",
+      "sqft": 4820,
+      "yearBuilt": 1970,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 908000
+    },
+    {
+      "address": "8904 Elm Rd",
+      "sqft": 1238,
+      "yearBuilt": 1984,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 364000
+    },
+    {
+      "address": "7542 Mountain View",
+      "sqft": 3049,
+      "yearBuilt": 1975,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 743000
+    },
+    {
+      "address": "1690 Willow Way",
+      "sqft": 2992,
+      "yearBuilt": 1958,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 798000
+    },
+    {
+      "address": "8841 Willow Way",
+      "sqft": 2976,
+      "yearBuilt": 1991,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 523000
+    },
+    {
+      "address": "3328 Lake St",
+      "sqft": 4636,
+      "yearBuilt": 2013,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 1177000
+    },
+    {
+      "address": "2844 Cedar Ct",
+      "sqft": 1957,
+      "yearBuilt": 2005,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 566000
+    },
+    {
+      "address": "9566 Elm Rd",
+      "sqft": 2005,
+      "yearBuilt": 1967,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 418000
+    },
+    {
+      "address": "2280 Main St",
+      "sqft": 3177,
+      "yearBuilt": 1953,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 950000
+    },
+    {
+      "address": "5688 Main St",
+      "sqft": 2914,
+      "yearBuilt": 1981,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 546000
+    },
+    {
+      "address": "3231 Oak Ave",
+      "sqft": 2416,
+      "yearBuilt": 2013,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 576000
+    },
+    {
+      "address": "1191 Oak Ave",
+      "sqft": 1510,
+      "yearBuilt": 1973,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 426000
+    },
+    {
+      "address": "2450 Willow Way",
+      "sqft": 3274,
+      "yearBuilt": 2015,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 665000
+    },
+    {
+      "address": "1025 Sunset Blvd",
+      "sqft": 1397,
+      "yearBuilt": 2016,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 288000
+    },
+    {
+      "address": "5324 Oak Ave",
+      "sqft": 4005,
+      "yearBuilt": 2021,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 735000
+    },
+    {
+      "address": "8947 Elm Rd",
+      "sqft": 4337,
+      "yearBuilt": 1994,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 1034000
+    },
+    {
+      "address": "668 Oak Ave",
+      "sqft": 4217,
+      "yearBuilt": 1960,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 841000
+    },
+    {
+      "address": "5162 Forest Dr",
+      "sqft": 4814,
+      "yearBuilt": 1972,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 983000
+    },
+    {
+      "address": "3656 Mountain View",
+      "sqft": 1557,
+      "yearBuilt": 1984,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 419000
+    },
+    {
+      "address": "5631 Elm Rd",
+      "sqft": 1576,
+      "yearBuilt": 1957,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 349000
+    },
+    {
+      "address": "2950 Forest Dr",
+      "sqft": 3460,
+      "yearBuilt": 1989,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 773000
+    },
+    {
+      "address": "6554 Maple Dr",
+      "sqft": 1908,
+      "yearBuilt": 1978,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 525000
+    },
+    {
+      "address": "9054 Cedar Ct",
+      "sqft": 2186,
+      "yearBuilt": 1953,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 571000
+    },
+    {
+      "address": "9742 Forest Dr",
+      "sqft": 3617,
+      "yearBuilt": 1970,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 1017000
+    },
+    {
+      "address": "4931 Park Ave",
+      "sqft": 4141,
+      "yearBuilt": 2008,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 923000
+    },
+    {
+      "address": "4774 Cedar Ct",
+      "sqft": 4452,
+      "yearBuilt": 1987,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 1208000
+    },
+    {
+      "address": "8581 Cedar Ct",
+      "sqft": 1816,
+      "yearBuilt": 1993,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 365000
+    },
+    {
+      "address": "3492 Birch St",
+      "sqft": 3480,
+      "yearBuilt": 1974,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 716000
+    },
+    {
+      "address": "9365 Willow Way",
+      "sqft": 3132,
+      "yearBuilt": 1967,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 666000
+    },
+    {
+      "address": "6178 Elm Rd",
+      "sqft": 3865,
+      "yearBuilt": 1994,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 856000
+    },
+    {
+      "address": "2213 Oak Ave",
+      "sqft": 3085,
+      "yearBuilt": 2008,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 659000
+    },
+    {
+      "address": "8192 Main St",
+      "sqft": 3439,
+      "yearBuilt": 1975,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 922000
+    },
+    {
+      "address": "5226 Elm Rd",
+      "sqft": 1633,
+      "yearBuilt": 2009,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 493000
+    },
+    {
+      "address": "4881 Forest Dr",
+      "sqft": 3318,
+      "yearBuilt": 1986,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 875000
+    },
+    {
+      "address": "2499 Highland Ave",
+      "sqft": 1381,
+      "yearBuilt": 2017,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 353000
+    },
+    {
+      "address": "7428 Highland Ave",
+      "sqft": 1122,
+      "yearBuilt": 2003,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 390000
+    },
+    {
+      "address": "293 Cedar Ct",
+      "sqft": 4993,
+      "yearBuilt": 2002,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 1025000
+    },
+    {
+      "address": "2363 Sunset Blvd",
+      "sqft": 4748,
+      "yearBuilt": 2021,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 1206000
+    },
+    {
+      "address": "9623 Pine Ln",
+      "sqft": 2858,
+      "yearBuilt": 2003,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 797000
+    },
+    {
+      "address": "199 Birch St",
+      "sqft": 3881,
+      "yearBuilt": 1997,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 936000
+    },
+    {
+      "address": "4496 Pine Ln",
+      "sqft": 1992,
+      "yearBuilt": 1969,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 609000
+    },
+    {
+      "address": "9494 River Rd",
+      "sqft": 3184,
+      "yearBuilt": 2002,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 626000
+    },
+    {
+      "address": "7725 Park Ave",
+      "sqft": 3907,
+      "yearBuilt": 1966,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 962000
+    },
+    {
+      "address": "2707 Willow Way",
+      "sqft": 1068,
+      "yearBuilt": 1979,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 345000
+    },
+    {
+      "address": "5420 Park Ave",
+      "sqft": 4242,
+      "yearBuilt": 1951,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 1051000
+    },
+    {
+      "address": "6203 Cedar Ct",
+      "sqft": 2327,
+      "yearBuilt": 2007,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 532000
+    },
+    {
+      "address": "5666 River Rd",
+      "sqft": 4708,
+      "yearBuilt": 1962,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 989000
+    },
+    {
+      "address": "4512 Sunset Blvd",
+      "sqft": 4570,
+      "yearBuilt": 2007,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 1081000
+    },
+    {
+      "address": "5470 River Rd",
+      "sqft": 2169,
+      "yearBuilt": 1998,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 586000
+    },
+    {
+      "address": "8424 Pine Ln",
+      "sqft": 4509,
+      "yearBuilt": 2008,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 860000
+    },
+    {
+      "address": "7441 Park Ave",
+      "sqft": 1985,
+      "yearBuilt": 2006,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 479000
+    },
+    {
+      "address": "4477 Maple Dr",
+      "sqft": 3656,
+      "yearBuilt": 1984,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 663000
+    },
+    {
+      "address": "9129 Forest Dr",
+      "sqft": 2357,
+      "yearBuilt": 2023,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 475000
+    },
+    {
+      "address": "1892 Maple Dr",
+      "sqft": 3320,
+      "yearBuilt": 1964,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 574000
+    },
+    {
+      "address": "2437 Oak Ave",
+      "sqft": 3484,
+      "yearBuilt": 1991,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 815000
+    },
+    {
+      "address": "5907 Cedar Ct",
+      "sqft": 2027,
+      "yearBuilt": 2022,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 422000
+    },
+    {
+      "address": "8032 Maple Dr",
+      "sqft": 3455,
+      "yearBuilt": 1974,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 599000
+    },
+    {
+      "address": "1110 Forest Dr",
+      "sqft": 4988,
+      "yearBuilt": 1981,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 1155000
+    },
+    {
+      "address": "4166 Cedar Ct",
+      "sqft": 3415,
+      "yearBuilt": 1950,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 741000
+    },
+    {
+      "address": "9084 Forest Dr",
+      "sqft": 3476,
+      "yearBuilt": 1965,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 604000
+    },
+    {
+      "address": "2695 Elm Rd",
+      "sqft": 3676,
+      "yearBuilt": 1999,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 800000
+    },
+    {
+      "address": "629 Sunset Blvd",
+      "sqft": 4321,
+      "yearBuilt": 2007,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 1009000
+    },
+    {
+      "address": "1419 Highland Ave",
+      "sqft": 4707,
+      "yearBuilt": 1998,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 1092000
+    },
+    {
+      "address": "886 River Rd",
+      "sqft": 1723,
+      "yearBuilt": 1958,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 468000
+    },
+    {
+      "address": "6750 Birch St",
+      "sqft": 1073,
+      "yearBuilt": 1977,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 287000
+    },
+    {
+      "address": "1865 Forest Dr",
+      "sqft": 3559,
+      "yearBuilt": 1953,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 918000
+    },
+    {
+      "address": "5224 Willow Way",
+      "sqft": 4475,
+      "yearBuilt": 1957,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 919000
+    },
+    {
+      "address": "1485 Lake St",
+      "sqft": 4081,
+      "yearBuilt": 1979,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 954000
+    },
+    {
+      "address": "3107 Birch St",
+      "sqft": 4736,
+      "yearBuilt": 1991,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 1110000
+    },
+    {
+      "address": "710 Lake St",
+      "sqft": 3104,
+      "yearBuilt": 1987,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 725000
+    },
+    {
+      "address": "6595 Willow Way",
+      "sqft": 3506,
+      "yearBuilt": 2005,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 781000
+    },
+    {
+      "address": "3890 Elm Rd",
+      "sqft": 1542,
+      "yearBuilt": 2021,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 369000
+    },
+    {
+      "address": "1689 Willow Way",
+      "sqft": 4840,
+      "yearBuilt": 2003,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 838000
+    },
+    {
+      "address": "4499 Cedar Ct",
+      "sqft": 2579,
+      "yearBuilt": 1997,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 755000
+    },
+    {
+      "address": "2166 River Rd",
+      "sqft": 2613,
+      "yearBuilt": 1985,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 541000
+    },
+    {
+      "address": "7898 River Rd",
+      "sqft": 2487,
+      "yearBuilt": 1987,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 733000
+    },
+    {
+      "address": "4252 Maple Dr",
+      "sqft": 1104,
+      "yearBuilt": 2004,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 313000
+    },
+    {
+      "address": "3910 Mountain View",
+      "sqft": 3156,
+      "yearBuilt": 1984,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 578000
+    },
+    {
+      "address": "6677 Park Ave",
+      "sqft": 3881,
+      "yearBuilt": 1984,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 1030000
+    },
+    {
+      "address": "9655 Lake St",
+      "sqft": 2181,
+      "yearBuilt": 1980,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 463000
+    },
+    {
+      "address": "6408 Oak Ave",
+      "sqft": 1798,
+      "yearBuilt": 1963,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 495000
+    },
+    {
+      "address": "5041 Maple Dr",
+      "sqft": 1351,
+      "yearBuilt": 1955,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 389000
+    },
+    {
+      "address": "9976 Cedar Ct",
+      "sqft": 2089,
+      "yearBuilt": 2007,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 436000
+    },
+    {
+      "address": "5674 Maple Dr",
+      "sqft": 1888,
+      "yearBuilt": 1963,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 373000
+    },
+    {
+      "address": "4613 Oak Ave",
+      "sqft": 2689,
+      "yearBuilt": 2013,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 706000
+    },
+    {
+      "address": "8544 Willow Way",
+      "sqft": 4573,
+      "yearBuilt": 1968,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 1215000
+    },
+    {
+      "address": "9338 Willow Way",
+      "sqft": 4603,
+      "yearBuilt": 1995,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 1138000
+    },
+    {
+      "address": "950 Main St",
+      "sqft": 4640,
+      "yearBuilt": 2010,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 778000
+    },
+    {
+      "address": "436 Oak Ave",
+      "sqft": 2877,
+      "yearBuilt": 2014,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 826000
+    },
+    {
+      "address": "4061 Birch St",
+      "sqft": 3380,
+      "yearBuilt": 1996,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 792000
+    },
+    {
+      "address": "1229 Cedar Ct",
+      "sqft": 3733,
+      "yearBuilt": 1992,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 791000
+    },
+    {
+      "address": "2664 Forest Dr",
+      "sqft": 3776,
+      "yearBuilt": 1952,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 982000
+    },
+    {
+      "address": "1248 Elm Rd",
+      "sqft": 1801,
+      "yearBuilt": 2011,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 592000
+    },
+    {
+      "address": "8871 Oak Ave",
+      "sqft": 1507,
+      "yearBuilt": 1977,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 397000
+    },
+    {
+      "address": "7222 Mountain View",
+      "sqft": 3492,
+      "yearBuilt": 1955,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 922000
+    },
+    {
+      "address": "9411 Highland Ave",
+      "sqft": 2517,
+      "yearBuilt": 1980,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 602000
+    },
+    {
+      "address": "4080 Pine Ln",
+      "sqft": 1532,
+      "yearBuilt": 1976,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 294000
+    },
+    {
+      "address": "4365 Main St",
+      "sqft": 1597,
+      "yearBuilt": 1983,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 357000
+    },
+    {
+      "address": "7740 Main St",
+      "sqft": 1008,
+      "yearBuilt": 1995,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 291000
+    },
+    {
+      "address": "2867 Cedar Ct",
+      "sqft": 1208,
+      "yearBuilt": 1957,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 496000
+    },
+    {
+      "address": "4337 Sunset Blvd",
+      "sqft": 4982,
+      "yearBuilt": 1998,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 878000
+    },
+    {
+      "address": "9351 Main St",
+      "sqft": 3104,
+      "yearBuilt": 1953,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 661000
+    },
+    {
+      "address": "4852 Forest Dr",
+      "sqft": 4531,
+      "yearBuilt": 1951,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 792000
+    },
+    {
+      "address": "6864 Maple Dr",
+      "sqft": 2983,
+      "yearBuilt": 1960,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 657000
+    },
+    {
+      "address": "1690 River Rd",
+      "sqft": 4323,
+      "yearBuilt": 2014,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 864000
+    },
+    {
+      "address": "5886 Maple Dr",
+      "sqft": 2310,
+      "yearBuilt": 2024,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 664000
+    },
+    {
+      "address": "3256 Forest Dr",
+      "sqft": 2333,
+      "yearBuilt": 1964,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 461000
+    },
+    {
+      "address": "7786 Maple Dr",
+      "sqft": 1264,
+      "yearBuilt": 1971,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 338000
+    },
+    {
+      "address": "3742 Park Ave",
+      "sqft": 3107,
+      "yearBuilt": 1975,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 717000
+    },
+    {
+      "address": "7487 Willow Way",
+      "sqft": 3553,
+      "yearBuilt": 2012,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 953000
+    },
+    {
+      "address": "9149 Forest Dr",
+      "sqft": 2048,
+      "yearBuilt": 2016,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 483000
+    },
+    {
+      "address": "5717 Elm Rd",
+      "sqft": 3151,
+      "yearBuilt": 1992,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 656000
+    },
+    {
+      "address": "7843 Elm Rd",
+      "sqft": 3957,
+      "yearBuilt": 1960,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 790000
+    },
+    {
+      "address": "8833 Cedar Ct",
+      "sqft": 3134,
+      "yearBuilt": 1959,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 591000
+    },
+    {
+      "address": "1112 Birch St",
+      "sqft": 3404,
+      "yearBuilt": 1995,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 736000
+    },
+    {
+      "address": "7268 Forest Dr",
+      "sqft": 3880,
+      "yearBuilt": 2010,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 687000
+    },
+    {
+      "address": "368 Cedar Ct",
+      "sqft": 1504,
+      "yearBuilt": 1991,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 536000
+    },
+    {
+      "address": "9018 Oak Ave",
+      "sqft": 4966,
+      "yearBuilt": 1988,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 978000
+    },
+    {
+      "address": "2448 Birch St",
+      "sqft": 3939,
+      "yearBuilt": 2000,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 994000
+    },
+    {
+      "address": "6410 Elm Rd",
+      "sqft": 4749,
+      "yearBuilt": 1994,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 1194000
+    },
+    {
+      "address": "1799 Highland Ave",
+      "sqft": 1775,
+      "yearBuilt": 2010,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 582000
+    },
+    {
+      "address": "6905 Lake St",
+      "sqft": 1172,
+      "yearBuilt": 2018,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 405000
+    },
+    {
+      "address": "787 Lake St",
+      "sqft": 3561,
+      "yearBuilt": 1971,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 711000
+    },
+    {
+      "address": "9211 Sunset Blvd",
+      "sqft": 3054,
+      "yearBuilt": 1960,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 762000
+    },
+    {
+      "address": "2914 Cedar Ct",
+      "sqft": 2569,
+      "yearBuilt": 2004,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 529000
+    },
+    {
+      "address": "7602 Elm Rd",
+      "sqft": 1802,
+      "yearBuilt": 1970,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 552000
+    },
+    {
+      "address": "1181 Oak Ave",
+      "sqft": 4127,
+      "yearBuilt": 1967,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 774000
+    },
+    {
+      "address": "8833 Main St",
+      "sqft": 4334,
+      "yearBuilt": 1971,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 890000
+    },
+    {
+      "address": "943 Main St",
+      "sqft": 2531,
+      "yearBuilt": 1974,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 700000
+    },
+    {
+      "address": "1143 Lake St",
+      "sqft": 1745,
+      "yearBuilt": 1997,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 371000
+    },
+    {
+      "address": "1233 Birch St",
+      "sqft": 3395,
+      "yearBuilt": 2019,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 740000
+    },
+    {
+      "address": "3942 Park Ave",
+      "sqft": 1714,
+      "yearBuilt": 1999,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 416000
+    },
+    {
+      "address": "5599 Birch St",
+      "sqft": 4005,
+      "yearBuilt": 1980,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 915000
+    },
+    {
+      "address": "7077 Cedar Ct",
+      "sqft": 2856,
+      "yearBuilt": 1957,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 642000
+    },
+    {
+      "address": "4416 Sunset Blvd",
+      "sqft": 2223,
+      "yearBuilt": 1979,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 454000
+    },
+    {
+      "address": "9395 Pine Ln",
+      "sqft": 2235,
+      "yearBuilt": 1957,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 563000
+    },
+    {
+      "address": "8298 Main St",
+      "sqft": 2128,
+      "yearBuilt": 2019,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 639000
+    },
+    {
+      "address": "488 Park Ave",
+      "sqft": 3570,
+      "yearBuilt": 1952,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 614000
+    },
+    {
+      "address": "4907 Forest Dr",
+      "sqft": 3531,
+      "yearBuilt": 2024,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 936000
+    },
+    {
+      "address": "2644 Elm Rd",
+      "sqft": 3086,
+      "yearBuilt": 1981,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 791000
+    },
+    {
+      "address": "1200 Willow Way",
+      "sqft": 2731,
+      "yearBuilt": 1982,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 592000
+    },
+    {
+      "address": "5383 Mountain View",
+      "sqft": 1146,
+      "yearBuilt": 1973,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 391000
+    },
+    {
+      "address": "7933 Maple Dr",
+      "sqft": 2103,
+      "yearBuilt": 1956,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 667000
+    },
+    {
+      "address": "1937 Cedar Ct",
+      "sqft": 1581,
+      "yearBuilt": 2008,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 361000
+    },
+    {
+      "address": "5158 Oak Ave",
+      "sqft": 4191,
+      "yearBuilt": 2011,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 988000
+    },
+    {
+      "address": "7459 Park Ave",
+      "sqft": 1670,
+      "yearBuilt": 2012,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 458000
+    },
+    {
+      "address": "4600 River Rd",
+      "sqft": 3688,
+      "yearBuilt": 2009,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 901000
+    },
+    {
+      "address": "1163 Maple Dr",
+      "sqft": 4845,
+      "yearBuilt": 1950,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 1297000
+    },
+    {
+      "address": "2498 Park Ave",
+      "sqft": 1320,
+      "yearBuilt": 1962,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 413000
+    },
+    {
+      "address": "1155 Main St",
+      "sqft": 4644,
+      "yearBuilt": 1997,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 914000
+    },
+    {
+      "address": "6095 Pine Ln",
+      "sqft": 3103,
+      "yearBuilt": 1990,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 600000
+    },
+    {
+      "address": "5655 Lake St",
+      "sqft": 4900,
+      "yearBuilt": 1994,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 1097000
+    },
+    {
+      "address": "1289 River Rd",
+      "sqft": 3248,
+      "yearBuilt": 2007,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 895000
+    },
+    {
+      "address": "3460 Park Ave",
+      "sqft": 3178,
+      "yearBuilt": 1950,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 891000
+    },
+    {
+      "address": "6357 Forest Dr",
+      "sqft": 4995,
+      "yearBuilt": 2024,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 1371000
+    },
+    {
+      "address": "536 Forest Dr",
+      "sqft": 2737,
+      "yearBuilt": 2020,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 617000
+    },
+    {
+      "address": "486 Lake St",
+      "sqft": 1690,
+      "yearBuilt": 1971,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 339000
+    },
+    {
+      "address": "105 Cedar Ct",
+      "sqft": 4775,
+      "yearBuilt": 1984,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 1144000
+    },
+    {
+      "address": "4730 Mountain View",
+      "sqft": 4461,
+      "yearBuilt": 1993,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 975000
+    },
+    {
+      "address": "5741 Oak Ave",
+      "sqft": 1325,
+      "yearBuilt": 1951,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 426000
+    },
+    {
+      "address": "7021 Park Ave",
+      "sqft": 2680,
+      "yearBuilt": 1972,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 551000
+    },
+    {
+      "address": "779 Elm Rd",
+      "sqft": 4254,
+      "yearBuilt": 2006,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 965000
+    },
+    {
+      "address": "4129 Forest Dr",
+      "sqft": 4174,
+      "yearBuilt": 2020,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 928000
+    },
+    {
+      "address": "7509 Park Ave",
+      "sqft": 3126,
+      "yearBuilt": 1993,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 672000
+    },
+    {
+      "address": "803 Mountain View",
+      "sqft": 2382,
+      "yearBuilt": 1984,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 500000
+    },
+    {
+      "address": "6503 Willow Way",
+      "sqft": 4918,
+      "yearBuilt": 2003,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 856000
+    },
+    {
+      "address": "3464 Maple Dr",
+      "sqft": 4865,
+      "yearBuilt": 1975,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 1092000
+    },
+    {
+      "address": "7987 Main St",
+      "sqft": 2200,
+      "yearBuilt": 1999,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 726000
+    },
+    {
+      "address": "8830 Elm Rd",
+      "sqft": 1532,
+      "yearBuilt": 2014,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 325000
+    },
+    {
+      "address": "8600 Pine Ln",
+      "sqft": 3793,
+      "yearBuilt": 1983,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 969000
+    },
+    {
+      "address": "6095 Maple Dr",
+      "sqft": 4872,
+      "yearBuilt": 1950,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 1198000
+    },
+    {
+      "address": "3390 Highland Ave",
+      "sqft": 3331,
+      "yearBuilt": 2019,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 824000
+    },
+    {
+      "address": "9836 Willow Way",
+      "sqft": 3456,
+      "yearBuilt": 1990,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 950000
+    },
+    {
+      "address": "6802 Park Ave",
+      "sqft": 4867,
+      "yearBuilt": 2001,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 984000
+    },
+    {
+      "address": "8318 Forest Dr",
+      "sqft": 4118,
+      "yearBuilt": 2021,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 980000
+    },
+    {
+      "address": "8216 Sunset Blvd",
+      "sqft": 3405,
+      "yearBuilt": 1950,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 755000
+    },
+    {
+      "address": "4464 Cedar Ct",
+      "sqft": 1061,
+      "yearBuilt": 2014,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 315000
+    },
+    {
+      "address": "7825 Highland Ave",
+      "sqft": 4383,
+      "yearBuilt": 1957,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 1016000
+    },
+    {
+      "address": "8653 Elm Rd",
+      "sqft": 3950,
+      "yearBuilt": 1985,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 947000
+    },
+    {
+      "address": "3751 Birch St",
+      "sqft": 1902,
+      "yearBuilt": 1955,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 398000
+    },
+    {
+      "address": "8379 Oak Ave",
+      "sqft": 1466,
+      "yearBuilt": 1964,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 344000
+    },
+    {
+      "address": "8052 Birch St",
+      "sqft": 3091,
+      "yearBuilt": 2001,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 799000
+    },
+    {
+      "address": "5716 Forest Dr",
+      "sqft": 2907,
+      "yearBuilt": 1956,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 685000
+    },
+    {
+      "address": "2562 Cedar Ct",
+      "sqft": 4166,
+      "yearBuilt": 2015,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 790000
+    },
+    {
+      "address": "6384 Forest Dr",
+      "sqft": 1272,
+      "yearBuilt": 2015,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 365000
+    },
+    {
+      "address": "8066 Lake St",
+      "sqft": 2645,
+      "yearBuilt": 1953,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 601000
+    },
+    {
+      "address": "3847 Mountain View",
+      "sqft": 3016,
+      "yearBuilt": 1978,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 740000
+    },
+    {
+      "address": "4789 Mountain View",
+      "sqft": 3101,
+      "yearBuilt": 1997,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 684000
+    },
+    {
+      "address": "3381 Highland Ave",
+      "sqft": 3665,
+      "yearBuilt": 1972,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 972000
+    },
+    {
+      "address": "1508 Lake St",
+      "sqft": 3590,
+      "yearBuilt": 1956,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 792000
+    },
+    {
+      "address": "6647 Sunset Blvd",
+      "sqft": 4794,
+      "yearBuilt": 1986,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 964000
+    },
+    {
+      "address": "4399 Forest Dr",
+      "sqft": 4484,
+      "yearBuilt": 1978,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 1215000
+    },
+    {
+      "address": "3603 Oak Ave",
+      "sqft": 2229,
+      "yearBuilt": 1978,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 557000
+    },
+    {
+      "address": "7355 Cedar Ct",
+      "sqft": 2117,
+      "yearBuilt": 1970,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 453000
+    },
+    {
+      "address": "2948 Pine Ln",
+      "sqft": 4846,
+      "yearBuilt": 1978,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 877000
+    },
+    {
+      "address": "9574 Forest Dr",
+      "sqft": 2159,
+      "yearBuilt": 1980,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 565000
+    },
+    {
+      "address": "5326 Mountain View",
+      "sqft": 1195,
+      "yearBuilt": 1956,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 332000
+    },
+    {
+      "address": "6167 Main St",
+      "sqft": 3183,
+      "yearBuilt": 1970,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 826000
+    },
+    {
+      "address": "9865 Park Ave",
+      "sqft": 2422,
+      "yearBuilt": 1954,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 608000
+    },
+    {
+      "address": "4214 Park Ave",
+      "sqft": 1170,
+      "yearBuilt": 2003,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 361000
+    },
+    {
+      "address": "3915 Mountain View",
+      "sqft": 1648,
+      "yearBuilt": 1990,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 588000
+    },
+    {
+      "address": "525 Elm Rd",
+      "sqft": 4071,
+      "yearBuilt": 1985,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 992000
+    },
+    {
+      "address": "8577 Willow Way",
+      "sqft": 3870,
+      "yearBuilt": 1959,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 751000
+    },
+    {
+      "address": "3419 Highland Ave",
+      "sqft": 1142,
+      "yearBuilt": 2014,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 398000
+    },
+    {
+      "address": "5631 Sunset Blvd",
+      "sqft": 4085,
+      "yearBuilt": 1988,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 877000
+    },
+    {
+      "address": "1665 Pine Ln",
+      "sqft": 3320,
+      "yearBuilt": 1951,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 792000
+    },
+    {
+      "address": "4688 Elm Rd",
+      "sqft": 3381,
+      "yearBuilt": 2017,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 865000
+    },
+    {
+      "address": "9147 Oak Ave",
+      "sqft": 990,
+      "yearBuilt": 2009,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 269000
+    },
+    {
+      "address": "3306 Mountain View",
+      "sqft": 3289,
+      "yearBuilt": 1973,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 785000
+    },
+    {
+      "address": "8350 Cedar Ct",
+      "sqft": 3023,
+      "yearBuilt": 1978,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 655000
+    },
+    {
+      "address": "7987 Willow Way",
+      "sqft": 2533,
+      "yearBuilt": 1989,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 582000
+    },
+    {
+      "address": "9178 Elm Rd",
+      "sqft": 3228,
+      "yearBuilt": 1961,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 653000
+    },
+    {
+      "address": "148 Oak Ave",
+      "sqft": 1952,
+      "yearBuilt": 1989,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 459000
+    },
+    {
+      "address": "8896 Mountain View",
+      "sqft": 2225,
+      "yearBuilt": 1958,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 487000
+    },
+    {
+      "address": "5694 Pine Ln",
+      "sqft": 1450,
+      "yearBuilt": 1997,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 367000
+    },
+    {
+      "address": "1049 Birch St",
+      "sqft": 3191,
+      "yearBuilt": 1968,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 804000
+    },
+    {
+      "address": "5536 Oak Ave",
+      "sqft": 3947,
+      "yearBuilt": 1973,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 944000
+    },
+    {
+      "address": "5167 River Rd",
+      "sqft": 2460,
+      "yearBuilt": 1992,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 598000
+    },
+    {
+      "address": "6963 Main St",
+      "sqft": 1349,
+      "yearBuilt": 1977,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 340000
+    },
+    {
+      "address": "4859 River Rd",
+      "sqft": 3270,
+      "yearBuilt": 2019,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 655000
+    },
+    {
+      "address": "3288 Park Ave",
+      "sqft": 2093,
+      "yearBuilt": 1964,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 669000
+    },
+    {
+      "address": "4584 Maple Dr",
+      "sqft": 4355,
+      "yearBuilt": 2008,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 1030000
+    },
+    {
+      "address": "632 Oak Ave",
+      "sqft": 4315,
+      "yearBuilt": 1952,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 1022000
+    },
+    {
+      "address": "4169 Forest Dr",
+      "sqft": 2671,
+      "yearBuilt": 1972,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 673000
+    },
+    {
+      "address": "4334 Mountain View",
+      "sqft": 3808,
+      "yearBuilt": 1994,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 765000
+    },
+    {
+      "address": "236 Maple Dr",
+      "sqft": 1091,
+      "yearBuilt": 2011,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 246000
+    },
+    {
+      "address": "8676 Elm Rd",
+      "sqft": 1988,
+      "yearBuilt": 2012,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 516000
+    },
+    {
+      "address": "5184 Willow Way",
+      "sqft": 3847,
+      "yearBuilt": 2015,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 812000
+    },
+    {
+      "address": "8351 Elm Rd",
+      "sqft": 2522,
+      "yearBuilt": 2020,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 656000
+    },
+    {
+      "address": "2818 Pine Ln",
+      "sqft": 1553,
+      "yearBuilt": 1978,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 397000
+    },
+    {
+      "address": "1409 Forest Dr",
+      "sqft": 2827,
+      "yearBuilt": 2010,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 696000
+    },
+    {
+      "address": "217 Maple Dr",
+      "sqft": 4330,
+      "yearBuilt": 2020,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 1218000
+    },
+    {
+      "address": "5977 Cedar Ct",
+      "sqft": 4697,
+      "yearBuilt": 2017,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 1043000
+    },
+    {
+      "address": "5548 Birch St",
+      "sqft": 2859,
+      "yearBuilt": 1992,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 561000
+    },
+    {
+      "address": "5833 Elm Rd",
+      "sqft": 3560,
+      "yearBuilt": 2024,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 796000
+    },
+    {
+      "address": "8451 Sunset Blvd",
+      "sqft": 3585,
+      "yearBuilt": 1980,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 766000
+    },
+    {
+      "address": "5417 Lake St",
+      "sqft": 3124,
+      "yearBuilt": 2022,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 668000
+    },
+    {
+      "address": "9031 Park Ave",
+      "sqft": 4046,
+      "yearBuilt": 1955,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 748000
+    },
+    {
+      "address": "9502 Lake St",
+      "sqft": 1599,
+      "yearBuilt": 1987,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 517000
+    },
+    {
+      "address": "6875 Mountain View",
+      "sqft": 2502,
+      "yearBuilt": 2023,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 635000
+    },
+    {
+      "address": "5303 Cedar Ct",
+      "sqft": 4803,
+      "yearBuilt": 2019,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 1199000
+    },
+    {
+      "address": "899 Highland Ave",
+      "sqft": 3159,
+      "yearBuilt": 1962,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 638000
+    },
+    {
+      "address": "3027 Oak Ave",
+      "sqft": 2223,
+      "yearBuilt": 1981,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 669000
+    },
+    {
+      "address": "7702 Lake St",
+      "sqft": 4934,
+      "yearBuilt": 2002,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 1290000
+    },
+    {
+      "address": "8661 Highland Ave",
+      "sqft": 900,
+      "yearBuilt": 1979,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 268000
+    },
+    {
+      "address": "6966 Pine Ln",
+      "sqft": 2971,
+      "yearBuilt": 1958,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 672000
+    },
+    {
+      "address": "2855 Sunset Blvd",
+      "sqft": 1639,
+      "yearBuilt": 1995,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 594000
+    },
+    {
+      "address": "8908 Lake St",
+      "sqft": 2871,
+      "yearBuilt": 1986,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 643000
+    },
+    {
+      "address": "9437 Willow Way",
+      "sqft": 4628,
+      "yearBuilt": 2006,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 1214000
+    },
+    {
+      "address": "9986 Oak Ave",
+      "sqft": 2621,
+      "yearBuilt": 2007,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 658000
+    },
+    {
+      "address": "5312 Willow Way",
+      "sqft": 1865,
+      "yearBuilt": 2024,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 452000
+    },
+    {
+      "address": "4788 Cedar Ct",
+      "sqft": 2729,
+      "yearBuilt": 1998,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 802000
+    },
+    {
+      "address": "9145 Lake St",
+      "sqft": 2584,
+      "yearBuilt": 1992,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 567000
+    },
+    {
+      "address": "7554 Oak Ave",
+      "sqft": 2216,
+      "yearBuilt": 1955,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 411000
+    },
+    {
+      "address": "2228 Elm Rd",
+      "sqft": 1527,
+      "yearBuilt": 1955,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 331000
+    },
+    {
+      "address": "1417 River Rd",
+      "sqft": 3014,
+      "yearBuilt": 2021,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 714000
+    },
+    {
+      "address": "1692 Cedar Ct",
+      "sqft": 2201,
+      "yearBuilt": 1950,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 540000
+    },
+    {
+      "address": "4832 Birch St",
+      "sqft": 4690,
+      "yearBuilt": 2005,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 1112000
+    },
+    {
+      "address": "5769 Birch St",
+      "sqft": 2141,
+      "yearBuilt": 2019,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 571000
+    },
+    {
+      "address": "7717 Sunset Blvd",
+      "sqft": 4342,
+      "yearBuilt": 1981,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 829000
+    },
+    {
+      "address": "2384 Cedar Ct",
+      "sqft": 1155,
+      "yearBuilt": 1996,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 284000
+    },
+    {
+      "address": "9723 Park Ave",
+      "sqft": 1187,
+      "yearBuilt": 2013,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 362000
+    },
+    {
+      "address": "1253 Park Ave",
+      "sqft": 4464,
+      "yearBuilt": 2022,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 1143000
+    },
+    {
+      "address": "3746 Main St",
+      "sqft": 4124,
+      "yearBuilt": 1981,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 1134000
+    },
+    {
+      "address": "7634 Willow Way",
+      "sqft": 2093,
+      "yearBuilt": 2002,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 520000
+    },
+    {
+      "address": "1198 Birch St",
+      "sqft": 2128,
+      "yearBuilt": 2012,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 411000
+    },
+    {
+      "address": "5064 Park Ave",
+      "sqft": 2287,
+      "yearBuilt": 2003,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 687000
+    },
+    {
+      "address": "2676 Highland Ave",
+      "sqft": 1144,
+      "yearBuilt": 1966,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 323000
+    },
+    {
+      "address": "474 Lake St",
+      "sqft": 3391,
+      "yearBuilt": 2012,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 816000
+    },
+    {
+      "address": "7701 Lake St",
+      "sqft": 3470,
+      "yearBuilt": 1998,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 908000
+    },
+    {
+      "address": "1245 Park Ave",
+      "sqft": 3378,
+      "yearBuilt": 2024,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 781000
+    },
+    {
+      "address": "8099 Mountain View",
+      "sqft": 946,
+      "yearBuilt": 1998,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 230000
+    },
+    {
+      "address": "9664 Pine Ln",
+      "sqft": 3732,
+      "yearBuilt": 1952,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 945000
+    },
+    {
+      "address": "616 Main St",
+      "sqft": 3877,
+      "yearBuilt": 2009,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 724000
+    },
+    {
+      "address": "7770 Lake St",
+      "sqft": 4605,
+      "yearBuilt": 2022,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 1025000
+    },
+    {
+      "address": "7960 Pine Ln",
+      "sqft": 1863,
+      "yearBuilt": 1977,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 530000
+    },
+    {
+      "address": "8528 Highland Ave",
+      "sqft": 4794,
+      "yearBuilt": 2005,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 955000
+    },
+    {
+      "address": "6010 Highland Ave",
+      "sqft": 2093,
+      "yearBuilt": 1991,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 579000
+    },
+    {
+      "address": "6536 Highland Ave",
+      "sqft": 4907,
+      "yearBuilt": 1953,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 1112000
+    },
+    {
+      "address": "5016 Lake St",
+      "sqft": 3198,
+      "yearBuilt": 1991,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 691000
+    },
+    {
+      "address": "7997 Park Ave",
+      "sqft": 1097,
+      "yearBuilt": 1979,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 332000
+    },
+    {
+      "address": "6397 Maple Dr",
+      "sqft": 4576,
+      "yearBuilt": 2017,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 1044000
+    },
+    {
+      "address": "9481 Pine Ln",
+      "sqft": 2436,
+      "yearBuilt": 1996,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 636000
+    },
+    {
+      "address": "9084 Forest Dr",
+      "sqft": 3071,
+      "yearBuilt": 2009,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 764000
+    },
+    {
+      "address": "9641 Maple Dr",
+      "sqft": 3692,
+      "yearBuilt": 1984,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 835000
+    },
+    {
+      "address": "8083 River Rd",
+      "sqft": 948,
+      "yearBuilt": 1978,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 286000
+    },
+    {
+      "address": "2142 Highland Ave",
+      "sqft": 4192,
+      "yearBuilt": 2005,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 1090000
+    },
+    {
+      "address": "7826 Maple Dr",
+      "sqft": 3889,
+      "yearBuilt": 2007,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 807000
+    },
+    {
+      "address": "6740 Sunset Blvd",
+      "sqft": 3214,
+      "yearBuilt": 2024,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 677000
+    },
+    {
+      "address": "4199 Sunset Blvd",
+      "sqft": 4805,
+      "yearBuilt": 1983,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 1229000
+    },
+    {
+      "address": "906 Lake St",
+      "sqft": 1280,
+      "yearBuilt": 1950,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 415000
+    },
+    {
+      "address": "3295 River Rd",
+      "sqft": 4829,
+      "yearBuilt": 2014,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 1070000
+    },
+    {
+      "address": "1447 Main St",
+      "sqft": 4549,
+      "yearBuilt": 2023,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 1121000
+    },
+    {
+      "address": "5213 Park Ave",
+      "sqft": 2041,
+      "yearBuilt": 1982,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 450000
+    },
+    {
+      "address": "5618 Main St",
+      "sqft": 3019,
+      "yearBuilt": 2002,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 874000
+    },
+    {
+      "address": "1431 Park Ave",
+      "sqft": 2440,
+      "yearBuilt": 1986,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 457000
+    },
+    {
+      "address": "6309 Cedar Ct",
+      "sqft": 4640,
+      "yearBuilt": 2009,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 933000
+    },
+    {
+      "address": "5044 River Rd",
+      "sqft": 2515,
+      "yearBuilt": 1974,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 541000
+    },
+    {
+      "address": "8681 Oak Ave",
+      "sqft": 1655,
+      "yearBuilt": 1956,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 408000
+    },
+    {
+      "address": "5476 Oak Ave",
+      "sqft": 3913,
+      "yearBuilt": 1985,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 1057000
+    },
+    {
+      "address": "3453 Mountain View",
+      "sqft": 1304,
+      "yearBuilt": 1975,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 263000
+    },
+    {
+      "address": "1206 Park Ave",
+      "sqft": 3326,
+      "yearBuilt": 2022,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 581000
+    },
+    {
+      "address": "2766 Cedar Ct",
+      "sqft": 2758,
+      "yearBuilt": 1984,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 694000
+    },
+    {
+      "address": "1796 Maple Dr",
+      "sqft": 1464,
+      "yearBuilt": 1967,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 450000
+    },
+    {
+      "address": "260 Elm Rd",
+      "sqft": 1422,
+      "yearBuilt": 1973,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 268000
+    },
+    {
+      "address": "7053 Lake St",
+      "sqft": 2697,
+      "yearBuilt": 1958,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 748000
+    },
+    {
+      "address": "1985 Birch St",
+      "sqft": 3992,
+      "yearBuilt": 1998,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 771000
+    },
+    {
+      "address": "8108 Elm Rd",
+      "sqft": 2730,
+      "yearBuilt": 1963,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 640000
+    },
+    {
+      "address": "1809 Pine Ln",
+      "sqft": 3605,
+      "yearBuilt": 2021,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 723000
+    },
+    {
+      "address": "4992 Elm Rd",
+      "sqft": 2035,
+      "yearBuilt": 2005,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 393000
+    },
+    {
+      "address": "8991 Lake St",
+      "sqft": 4553,
+      "yearBuilt": 1990,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 1001000
+    },
+    {
+      "address": "5924 Sunset Blvd",
+      "sqft": 2237,
+      "yearBuilt": 1953,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 641000
+    },
+    {
+      "address": "527 Elm Rd",
+      "sqft": 1802,
+      "yearBuilt": 1973,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 462000
+    },
+    {
+      "address": "1284 River Rd",
+      "sqft": 3849,
+      "yearBuilt": 1959,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 868000
+    },
+    {
+      "address": "1531 Maple Dr",
+      "sqft": 4173,
+      "yearBuilt": 2017,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 1097000
+    },
+    {
+      "address": "9875 Cedar Ct",
+      "sqft": 1945,
+      "yearBuilt": 1995,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 531000
+    },
+    {
+      "address": "1698 Willow Way",
+      "sqft": 1282,
+      "yearBuilt": 1997,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "University District",
+      "furnished": false,
+      "price": 351000
+    },
+    {
+      "address": "6064 River Rd",
+      "sqft": 2243,
+      "yearBuilt": 1976,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 739000
+    },
+    {
+      "address": "1736 Willow Way",
+      "sqft": 3396,
+      "yearBuilt": 1969,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 788000
+    },
+    {
+      "address": "7165 Highland Ave",
+      "sqft": 4575,
+      "yearBuilt": 1996,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 1055000
+    },
+    {
+      "address": "628 Lake St",
+      "sqft": 4719,
+      "yearBuilt": 1958,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 1250000
+    },
+    {
+      "address": "9776 Main St",
+      "sqft": 3389,
+      "yearBuilt": 1969,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 636000
+    },
+    {
+      "address": "1769 Maple Dr",
+      "sqft": 3363,
+      "yearBuilt": 2011,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 794000
+    },
+    {
+      "address": "8041 Mountain View",
+      "sqft": 4857,
+      "yearBuilt": 2016,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 890000
+    },
+    {
+      "address": "4788 Lake St",
+      "sqft": 1214,
+      "yearBuilt": 1986,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 333000
+    },
+    {
+      "address": "9094 Pine Ln",
+      "sqft": 1188,
+      "yearBuilt": 2005,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 330000
+    },
+    {
+      "address": "6445 Elm Rd",
+      "sqft": 1730,
+      "yearBuilt": 1984,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 618000
+    },
+    {
+      "address": "6315 Sunset Blvd",
+      "sqft": 3581,
+      "yearBuilt": 2002,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 830000
+    },
+    {
+      "address": "7450 Main St",
+      "sqft": 2932,
+      "yearBuilt": 2007,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 669000
+    },
+    {
+      "address": "2310 Willow Way",
+      "sqft": 4983,
+      "yearBuilt": 1967,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 1319000
+    },
+    {
+      "address": "3638 Cedar Ct",
+      "sqft": 4449,
+      "yearBuilt": 1972,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 908000
+    },
+    {
+      "address": "6797 Oak Ave",
+      "sqft": 3239,
+      "yearBuilt": 1952,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 694000
+    },
+    {
+      "address": "2262 Forest Dr",
+      "sqft": 3139,
+      "yearBuilt": 1975,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 753000
+    },
+    {
+      "address": "2091 Maple Dr",
+      "sqft": 1932,
+      "yearBuilt": 1989,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 554000
+    },
+    {
+      "address": "1213 Sunset Blvd",
+      "sqft": 4454,
+      "yearBuilt": 1986,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 1134000
+    },
+    {
+      "address": "606 Elm Rd",
+      "sqft": 2777,
+      "yearBuilt": 1996,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 625000
+    },
+    {
+      "address": "8325 Main St",
+      "sqft": 4962,
+      "yearBuilt": 2023,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 1159000
+    },
+    {
+      "address": "419 Main St",
+      "sqft": 2363,
+      "yearBuilt": 2008,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 742000
+    },
+    {
+      "address": "5321 Oak Ave",
+      "sqft": 2565,
+      "yearBuilt": 1997,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 487000
+    },
+    {
+      "address": "5411 Lake St",
+      "sqft": 3547,
+      "yearBuilt": 1991,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 669000
+    },
+    {
+      "address": "2614 Cedar Ct",
+      "sqft": 1077,
+      "yearBuilt": 1950,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 257000
+    },
+    {
+      "address": "2178 Park Ave",
+      "sqft": 1782,
+      "yearBuilt": 1952,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 409000
+    },
+    {
+      "address": "3254 Forest Dr",
+      "sqft": 1089,
+      "yearBuilt": 2008,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 409000
+    },
+    {
+      "address": "6662 Sunset Blvd",
+      "sqft": 4774,
+      "yearBuilt": 1981,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 1186000
+    },
+    {
+      "address": "1699 River Rd",
+      "sqft": 2388,
+      "yearBuilt": 1978,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 611000
+    },
+    {
+      "address": "5298 Maple Dr",
+      "sqft": 1389,
+      "yearBuilt": 1972,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 458000
+    },
+    {
+      "address": "1605 Lake St",
+      "sqft": 4071,
+      "yearBuilt": 1971,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 715000
+    },
+    {
+      "address": "4098 Highland Ave",
+      "sqft": 2887,
+      "yearBuilt": 1999,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 525000
+    },
+    {
+      "address": "4295 Pine Ln",
+      "sqft": 4989,
+      "yearBuilt": 1980,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 972000
+    },
+    {
+      "address": "2634 Highland Ave",
+      "sqft": 3872,
+      "yearBuilt": 2024,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 884000
+    },
+    {
+      "address": "3212 Lake St",
+      "sqft": 4797,
+      "yearBuilt": 1977,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 1036000
+    },
+    {
+      "address": "2449 Maple Dr",
+      "sqft": 4202,
+      "yearBuilt": 2010,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 787000
+    },
+    {
+      "address": "3818 Oak Ave",
+      "sqft": 3813,
+      "yearBuilt": 2003,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 825000
+    },
+    {
+      "address": "6527 Lake St",
+      "sqft": 3939,
+      "yearBuilt": 1962,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 801000
+    },
+    {
+      "address": "5705 Mountain View",
+      "sqft": 3303,
+      "yearBuilt": 1954,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 747000
+    },
+    {
+      "address": "6624 Maple Dr",
+      "sqft": 2563,
+      "yearBuilt": 1974,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 593000
+    },
+    {
+      "address": "9874 Mountain View",
+      "sqft": 1685,
+      "yearBuilt": 2020,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 548000
+    },
+    {
+      "address": "6232 Cedar Ct",
+      "sqft": 2335,
+      "yearBuilt": 1997,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 732000
+    },
+    {
+      "address": "8583 Maple Dr",
+      "sqft": 2924,
+      "yearBuilt": 2021,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 603000
+    },
+    {
+      "address": "9194 Oak Ave",
+      "sqft": 3096,
+      "yearBuilt": 2003,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 762000
+    },
+    {
+      "address": "3463 Sunset Blvd",
+      "sqft": 3930,
+      "yearBuilt": 1963,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 913000
+    },
+    {
+      "address": "4383 Highland Ave",
+      "sqft": 1773,
+      "yearBuilt": 1975,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 481000
+    },
+    {
+      "address": "7987 Pine Ln",
+      "sqft": 2652,
+      "yearBuilt": 1963,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 807000
+    },
+    {
+      "address": "202 Oak Ave",
+      "sqft": 3378,
+      "yearBuilt": 1968,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 935000
+    },
+    {
+      "address": "9715 Oak Ave",
+      "sqft": 4716,
+      "yearBuilt": 1984,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 949000
+    },
+    {
+      "address": "6363 Elm Rd",
+      "sqft": 1819,
+      "yearBuilt": 2002,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 445000
+    },
+    {
+      "address": "9660 Sunset Blvd",
+      "sqft": 3046,
+      "yearBuilt": 1997,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 618000
+    },
+    {
+      "address": "2341 Highland Ave",
+      "sqft": 1989,
+      "yearBuilt": 1995,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 554000
+    },
+    {
+      "address": "3953 Park Ave",
+      "sqft": 3523,
+      "yearBuilt": 1950,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 904000
+    },
+    {
+      "address": "3317 Birch St",
+      "sqft": 4329,
+      "yearBuilt": 1962,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 778000
+    },
+    {
+      "address": "1748 River Rd",
+      "sqft": 2334,
+      "yearBuilt": 1959,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 587000
+    },
+    {
+      "address": "9278 Maple Dr",
+      "sqft": 1093,
+      "yearBuilt": 2007,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 307000
+    },
+    {
+      "address": "5646 Park Ave",
+      "sqft": 3747,
+      "yearBuilt": 2010,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 945000
+    },
+    {
+      "address": "6316 Pine Ln",
+      "sqft": 2343,
+      "yearBuilt": 2008,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 601000
+    },
+    {
+      "address": "5323 Birch St",
+      "sqft": 1453,
+      "yearBuilt": 1958,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 477000
+    },
+    {
+      "address": "2586 Birch St",
+      "sqft": 1895,
+      "yearBuilt": 2005,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 572000
+    },
+    {
+      "address": "6056 Mountain View",
+      "sqft": 3627,
+      "yearBuilt": 1977,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 826000
+    },
+    {
+      "address": "8699 Main St",
+      "sqft": 3611,
+      "yearBuilt": 1975,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 653000
+    },
+    {
+      "address": "1706 River Rd",
+      "sqft": 4001,
+      "yearBuilt": 1970,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 1069000
+    },
+    {
+      "address": "5810 Maple Dr",
+      "sqft": 2534,
+      "yearBuilt": 2019,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 780000
+    },
+    {
+      "address": "751 Park Ave",
+      "sqft": 873,
+      "yearBuilt": 1997,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 231000
+    },
+    {
+      "address": "5478 River Rd",
+      "sqft": 829,
+      "yearBuilt": 1957,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 373000
+    },
+    {
+      "address": "5812 Main St",
+      "sqft": 4083,
+      "yearBuilt": 1960,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 874000
+    },
+    {
+      "address": "550 Main St",
+      "sqft": 4934,
+      "yearBuilt": 2015,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 964000
+    },
+    {
+      "address": "7456 River Rd",
+      "sqft": 3320,
+      "yearBuilt": 2009,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 777000
+    },
+    {
+      "address": "2551 Park Ave",
+      "sqft": 4892,
+      "yearBuilt": 2004,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 934000
+    },
+    {
+      "address": "9848 Maple Dr",
+      "sqft": 4893,
+      "yearBuilt": 1979,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 917000
+    },
+    {
+      "address": "2379 Cedar Ct",
+      "sqft": 2167,
+      "yearBuilt": 1971,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 524000
+    },
+    {
+      "address": "5477 Willow Way",
+      "sqft": 1203,
+      "yearBuilt": 1999,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 299000
+    },
+    {
+      "address": "5219 Pine Ln",
+      "sqft": 2848,
+      "yearBuilt": 1956,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 564000
+    },
+    {
+      "address": "5221 Park Ave",
+      "sqft": 2910,
+      "yearBuilt": 1986,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 719000
+    },
+    {
+      "address": "6310 Cedar Ct",
+      "sqft": 3822,
+      "yearBuilt": 1989,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 668000
+    },
+    {
+      "address": "9713 Main St",
+      "sqft": 893,
+      "yearBuilt": 2004,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 222000
+    },
+    {
+      "address": "9937 Lake St",
+      "sqft": 839,
+      "yearBuilt": 1959,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 207000
+    },
+    {
+      "address": "9784 Highland Ave",
+      "sqft": 3716,
+      "yearBuilt": 1968,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Garden District",
+      "furnished": false,
+      "price": 736000
+    },
+    {
+      "address": "3634 Oak Ave",
+      "sqft": 1757,
+      "yearBuilt": 1961,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 404000
+    },
+    {
+      "address": "7567 Forest Dr",
+      "sqft": 4361,
+      "yearBuilt": 2020,
+      "rooms": 6,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": false,
+      "price": 1125000
+    },
+    {
+      "address": "4104 Highland Ave",
+      "sqft": 3352,
+      "yearBuilt": 1954,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 745000
+    },
+    {
+      "address": "7371 Sunset Blvd",
+      "sqft": 4053,
+      "yearBuilt": 2000,
+      "rooms": 7,
+      "parking": "No",
+      "neighborhood": "Business District",
+      "furnished": false,
+      "price": 1108000
+    },
+    {
+      "address": "9222 Elm Rd",
+      "sqft": 3767,
+      "yearBuilt": 2000,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 920000
+    },
+    {
+      "address": "6278 Forest Dr",
+      "sqft": 3055,
+      "yearBuilt": 1968,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 575000
+    },
+    {
+      "address": "8038 Willow Way",
+      "sqft": 4339,
+      "yearBuilt": 1958,
+      "rooms": 4,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 869000
+    },
+    {
+      "address": "7071 Cedar Ct",
+      "sqft": 3159,
+      "yearBuilt": 1995,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Business District",
+      "furnished": true,
+      "price": 906000
+    },
+    {
+      "address": "7017 Forest Dr",
+      "sqft": 2113,
+      "yearBuilt": 1977,
+      "rooms": 6,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": true,
+      "price": 500000
+    },
+    {
+      "address": "1053 Mountain View",
+      "sqft": 4300,
+      "yearBuilt": 1961,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "University District",
+      "furnished": true,
+      "price": 841000
+    },
+    {
+      "address": "5103 Park Ave",
+      "sqft": 3722,
+      "yearBuilt": 1970,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 788000
+    },
+    {
+      "address": "6282 Lake St",
+      "sqft": 4967,
+      "yearBuilt": 1953,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 815000
+    },
+    {
+      "address": "5187 Lake St",
+      "sqft": 3137,
+      "yearBuilt": 1974,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 727000
+    },
+    {
+      "address": "4392 Cedar Ct",
+      "sqft": 1175,
+      "yearBuilt": 1954,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 260000
+    },
+    {
+      "address": "4841 Forest Dr",
+      "sqft": 3733,
+      "yearBuilt": 1997,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 862000
+    },
+    {
+      "address": "2076 Pine Ln",
+      "sqft": 1480,
+      "yearBuilt": 2014,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": false,
+      "price": 391000
+    },
+    {
+      "address": "1130 Cedar Ct",
+      "sqft": 4112,
+      "yearBuilt": 1985,
+      "rooms": 5,
+      "parking": "Yes",
+      "neighborhood": "Suburban",
+      "furnished": true,
+      "price": 974000
+    },
+    {
+      "address": "4466 Lake St",
+      "sqft": 4527,
+      "yearBuilt": 1977,
+      "rooms": 5,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 951000
+    },
+    {
+      "address": "7117 Main St",
+      "sqft": 3626,
+      "yearBuilt": 1951,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": false,
+      "price": 868000
+    },
+    {
+      "address": "7248 Cedar Ct",
+      "sqft": 1966,
+      "yearBuilt": 1960,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 449000
+    },
+    {
+      "address": "5283 Elm Rd",
+      "sqft": 2628,
+      "yearBuilt": 1997,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 495000
+    },
+    {
+      "address": "1943 Sunset Blvd",
+      "sqft": 3137,
+      "yearBuilt": 1956,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Arts District",
+      "furnished": false,
+      "price": 591000
+    },
+    {
+      "address": "1657 Sunset Blvd",
+      "sqft": 4713,
+      "yearBuilt": 1964,
+      "rooms": 7,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 944000
+    },
+    {
+      "address": "8693 Cedar Ct",
+      "sqft": 4946,
+      "yearBuilt": 1984,
+      "rooms": 2,
+      "parking": "No",
+      "neighborhood": "Urban",
+      "furnished": false,
+      "price": 1235000
+    },
+    {
+      "address": "6442 Cedar Ct",
+      "sqft": 1452,
+      "yearBuilt": 1951,
+      "rooms": 1,
+      "parking": "No",
+      "neighborhood": "Arts District",
+      "furnished": true,
+      "price": 337000
+    },
+    {
+      "address": "4093 Oak Ave",
+      "sqft": 1202,
+      "yearBuilt": 1977,
+      "rooms": 2,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 295000
+    },
+    {
+      "address": "4659 Lake St",
+      "sqft": 2660,
+      "yearBuilt": 2004,
+      "rooms": 3,
+      "parking": "No",
+      "neighborhood": "Residential",
+      "furnished": true,
+      "price": 631000
+    },
+    {
+      "address": "980 Main St",
+      "sqft": 2465,
+      "yearBuilt": 1955,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Residential",
+      "furnished": false,
+      "price": 555000
+    },
+    {
+      "address": "5157 Cedar Ct",
+      "sqft": 2866,
+      "yearBuilt": 2022,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Garden District",
+      "furnished": true,
+      "price": 677000
+    },
+    {
+      "address": "9736 Cedar Ct",
+      "sqft": 1325,
+      "yearBuilt": 1956,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Waterfront",
+      "furnished": true,
+      "price": 369000
+    },
+    {
+      "address": "579 Main St",
+      "sqft": 1843,
+      "yearBuilt": 2003,
+      "rooms": 4,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": false,
+      "price": 393000
+    },
+    {
+      "address": "3622 Highland Ave",
+      "sqft": 4263,
+      "yearBuilt": 1973,
+      "rooms": 1,
+      "parking": "Yes",
+      "neighborhood": "Historic",
+      "furnished": true,
+      "price": 948000
+    },
+    {
+      "address": "628 Park Ave",
+      "sqft": 4038,
+      "yearBuilt": 1962,
+      "rooms": 3,
+      "parking": "Yes",
+      "neighborhood": "Downtown",
+      "furnished": true,
+      "price": 774000
+    }
+  ]
+}

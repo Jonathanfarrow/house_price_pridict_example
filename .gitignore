@@ -10,7 +10,6 @@ yarn-error.log
 .env.*.local
 
 # Generated files
-houses.json
 dist/
 build/
 coverage/
