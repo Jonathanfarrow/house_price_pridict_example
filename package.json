@@ -1,0 +1,15 @@
+{
+  "name": "house_price_xgboost",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "xgboost_node": "^0.3.9"
+  }
+}
